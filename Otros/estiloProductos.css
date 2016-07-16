@@ -1,0 +1,96 @@
+body{
+	font:11pt Verdana, Arial, Helvetica, sans-serif;
+	margin:10px 30px 0px 30px;
+	}
+#contenedor{
+	background-color:#CCCCCC;
+	}
+#cabecera h1{
+	padding-left:10px;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:36px;
+	color:#006600;
+}
+#cabecera img{
+	width:75px;
+	height:75px;
+}
+#menu{
+	background-color:#0000FF;
+	padding-top:2px;
+	padding-bottom:2px;
+}
+#menu a{
+	font-weight:bold;
+	margin-left:30px;
+	color:white;
+}
+a{
+	text-decoration:none;	
+}
+#main{
+	background-repeat:no-repeat;
+	background-position:center;
+	text-align:center;
+	color:#007700;
+}
+#main h1{
+	font:26pt "Times New Roman", Times, serif;
+	font-style:italic;
+	text-decoration:blink;
+	font-weight:bold;
+}
+table.catalogo{
+	text-align:center;
+	margin-left:355px;
+	border-style:inherit;
+	color:#009900;
+	background-color:#999999;
+}
+#lateralLeft{
+	float:left;
+	width:auto;
+	height:auto;
+	text-align:left;
+	border:#000000;
+	border-style:solid;
+	background-color:#CCCCCC;
+	color:#009900;
+	margin-left:40px;
+	padding:5px 3px 5px 0px;
+}
+#lateralLeft li a{
+		color:#009900;
+}
+li{
+	list-style:none;
+}
+#pie{
+	color:#990000;
+	background-color:#CCCCCC;
+	padding-top:5px;
+	height:30px;
+	clear:both;
+}
+#pie ul{
+	font-weight:bolder;
+	padding-left:50px;
+	float:left;
+}
+#pie a:link{
+	color:#990000;
+}
+#pie a:visited{
+	color:#990000;
+}
+p#datos{
+	float:right;
+}
+label.login{
+	position:absolute;
+	top:75px;
+	right:100px;
+	font-size:11pt;
+	padding:0px 30px;S	
+}
+

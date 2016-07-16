@@ -1,0 +1,5 @@
+FRANCO:
+	- comestibles, fiambreria y kiosko.
+	-FormLogin con el login.php
+	-formRegistro con el registro.php
+	-contacto.php
